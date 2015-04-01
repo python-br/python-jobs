@@ -8,4 +8,4 @@ Capi Etheriel
 :Disponibilidade para freelancer: Disponível
 :Especialidades: Python, Scrapy, Django, Drupal, Javascript
 :Projetos: https://groups.google.com/forum/#!forum/thackday
-:Descrição: Contribuidor de diversas tecnologias livres, ativista por dados abertos com a rede Transparencia Hacker. Também dou aulas de programação para iniciantes.
+:Descrição: Contribuidor de diversas tecnologias livres, ativista por dados abertos com a rede Transparência Hacker. Também dou aulas de programação para iniciantes.
