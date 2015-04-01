@@ -1,6 +1,7 @@
 ================================
 Eric Hideki Imai Satake
 ================================
-:status: Coordenador no Centro de Treinamento da Novatec
-:Contact: http://pt.gravatar.com/ericstk
-:idade: 24
+:Status: Coordenador no Centro de Treinamento da Novatec
+:Contato: http://pt.gravatar.com/ericstk
+:Idade: 24
+:Portifólio: github.com/erichideki
