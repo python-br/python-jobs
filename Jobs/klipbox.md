@@ -1,0 +1,1 @@
+A Klipbox está procurando pessoas apaixonadas por escrever um bom código, por uma boa eficiência e performance. Precisam de alguém com bom nível de Python, e experiência em scrapy. Há um projeto de crawler em andamento, e precisamos de pessoas para melhorar a qualidade dele. Interessados enviar e-mail para atendimento@klipbox.com.br
