@@ -2,7 +2,8 @@
 Carreira de programador Python
 ================================
 
-:Requisitos básicos:
+Requisitos básicos
+------------------
 
 **Bruno Rocha**
 
@@ -18,7 +19,7 @@ Quanto a frameworks é meio dificil indicar um, mas eu aconselharia o "Flask" ou
 
 --
 
-** Alexandre Vicenzi **
+**Alexandre Vicenzi**
 
 - Flask
 - Django
@@ -29,9 +30,10 @@ Quanto a frameworks é meio dificil indicar um, mas eu aconselharia o "Flask" ou
 - Boto
 - Requests
 
-:Libs:
+Libs
+------
 
-** Ivan Ogasawara **
+**Ivan Ogasawara**
 
 Sqlalchemy
 Pandas
@@ -41,7 +43,7 @@ Numpy
 Scikit-learn
 Lasagne
 
-** Alexandre Vicenzi **
+**Alexandre Vicenzi**
 
 - PsycoPG
 - PyMongo
